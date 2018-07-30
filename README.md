@@ -1,4 +1,4 @@
-# new intro
+# New intro
 
 This was forked with the intention of adding latex support.
 
